@@ -182,7 +182,7 @@
 }
 
 .display-template #Result .search-item strong.ms-srch-item-highlightedText {
-  color: #EA4300;
+  color: #86A3B5;
 }
 
 .display-template #Result .search-item:hover {
@@ -206,27 +206,27 @@
 }
 
 .display-template .ajax__multi_slider_default .inner_rail_horizontal {
-  background-color: #EA4300;
-  border-top: 1px solid #EA4300;
-  border-bottom: 1px solid #EA4300;
+  background-color: #2d5078;
+  border-top: 1px solid #2d5078;
+  border-bottom: 1px solid #2d5078;
 }
 
 .display-template .slider_tick_active {
-  background-color: #EA4300;
-  border: 1px solid #EA4300;
+  background-color: #2d5078;
+  border: 1px solid #2d5078;
 }
 
 .display-template .histogram_bar_active {
-  border-top: 2px solid #EA4300;
+  border-top: 2px solid #2d5078;
 }
 
 .display-template .ms-ref-ctrl .ms-ref-selSec .ms-ref-filterSel,
 .display-template .ms-ref-ctrl .ms-ref-allSec .ms-ref-filterSel {
-  color: #EA4300;
+  color: #2d5078;
 }
 
 .display-template #FilterLink.ms-ref-filterSel .ms-ref-name {
-  color: #EA4300;
+  color: #86A3B5;
 }
 
 .display-template .news-item {
@@ -310,7 +310,7 @@
 #suggestions-box #line2 #action a span {
   padding: 7px;
   color: #ffffff;
-  background-color: #EA4300;
+  background-color: #2d5078;
 }
 
 #suggestions-box #line2 #action a:hover {
@@ -321,7 +321,7 @@
 
 #navbar {
   clear: both;
-  background-color: #EA4300;
+  background-color: #2d5078;
   font-size: 13px;
   min-height: 50px;
   /* Small devices */
@@ -367,7 +367,7 @@
   }
 
   #navbar .nav a:hover {
-    color: #ffffff;
+    color: #efefef;
   }
 
   #navbar .nav ul.dropdown-menu {
@@ -376,11 +376,11 @@
   }
 
   #navbar .nav .yamm-content a {
-    color: #333333;
+    color: #2D5078;
   }
 
   #navbar .nav .yamm-content a:hover {
-    color: #EA4300;
+    color: #86A3B5;
     text-decoration: none;
   }
 
@@ -465,7 +465,7 @@
 
 #contextualmenu .nav > li.parent-section {
   font-weight: bold;
-  color: #EA4300;
+  color: #2d5078;
 }
 
 #contextualmenu .nav > li.parent-section i {
@@ -473,7 +473,7 @@
 }
 
 #contextualmenu .nav > li.parent-section a {
-  color: #EA4300;
+  color: #2d5078;
 }
 
 #contextualmenu .nav > li.is-child {
@@ -481,7 +481,7 @@
 }
 
 #contextualmenu .is-selected {
-  background-color: #EA4300;
+  background-color: #2d5078;
   border-radius: 5px;
   color: #ffffff;
 }
@@ -491,7 +491,7 @@
 }
 
 #contextualmenu .is-selected :hover {
-  background-color: #EA4300;
+  background-color: #2d5078;
 }
 
 /* Nav bar colors */
@@ -575,7 +575,7 @@
 }
 
 #header #header-links ul li i {
-  color: #EA4300;
+  color: #2d5078;
 }
 
 /* Nav bar colors */
@@ -592,7 +592,7 @@
 }
 
 #page-info i {
-  color: #EA4300;
+  color: #86A3B5;
 }
 
 /* Nav bar colors */
@@ -627,6 +627,7 @@
 /* Nav bar colors */
 
 #language-switcher {
+  display: none;
   line-height: 35px;
   max-height: 40px;
 }
@@ -719,8 +720,8 @@
 #searchbox #search-categories button {
   padding: 8px 0px;
   min-width: 3em;
-  background-color: #EA4300;
-  border: 1px #EA4300 solid;
+  background-color: #2d5078;
+  border: 1px #2d5078 solid;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
@@ -758,7 +759,7 @@
 
 #footer ul li {
   display: inline-block;
-  color: #EA4300;
+  color: #2d5078;
   padding-right: 15px;
   padding-left: 15px;
   margin-bottom: 5px;
@@ -766,7 +767,7 @@
 
 #footer ul li a,
 #footer ul li a:hover {
-  color: #EA4300;
+  color: #2d5078;
 }
 
 @media (min-width: 768px) {
@@ -844,7 +845,7 @@
   bottom: 0;
   position: absolute;
   padding: 10px;
-  background-color: #EA4300;
+  background-color: #2d5078;
 }
 
 #carousel .carousel .carousel-cell span a {

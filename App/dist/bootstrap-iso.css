@@ -324,6 +324,11 @@
     width: 1170px;
   }
 }
+@media (min-width: 1680px) {
+  .bootstrap-iso .container {
+    width: 1620px;
+  }
+}
 .bootstrap-iso .container-fluid {
   margin-right: auto;
   margin-left: auto;
