@@ -1,0 +1,33 @@
+/* Nav bar colors */
+/* Important: these styles are only applied in display mode ! */
+.page-layout {
+  /* Start Home Page Layout styles */
+  /* End Home Page Layout styles */
+  /* Start News Page Layout styles */
+  /* End News Page Layout styles */
+  /* Start Search Page Layout styles */
+  /* End Search Page Layout styles */ }
+  .page-layout div.content {
+    margin-top: 10px; }
+    .page-layout div.content #title {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 20px; }
+    .page-layout div.content #page-content {
+      clear: both; }
+      .page-layout div.content #page-content .ms-formfieldvaluecontainer {
+        border: 1px solid #ababab; }
+  .page-layout #DeltaSiteLogo {
+    text-align: center; }
+  .page-layout #homepage-layout {
+    display: block; }
+  .page-layout #news-layout #page-image {
+    clear: both;
+    margin-top: 30px;
+    margin-bottom: 20px; }
+  .page-layout #search-layout #Refinement {
+    padding-left: 15px; }
+  .page-layout #search-layout #Result {
+    min-height: 700px; }
+
+/*# sourceMappingURL=layouts.css.map*/

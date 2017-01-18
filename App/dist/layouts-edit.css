@@ -1,0 +1,23 @@
+/* Nav bar colors */
+/* Important: these styles are only applied in edit mode ! */
+#DeltaPlaceHolderMain div[class^="col-"] {
+  float: none;
+  width: 100%; }
+
+.page-layout {
+  margin-right: 20px; }
+  .page-layout #contextualmenu, .page-layout #breadcrumb, .page-layout #DeltaSiteLogo {
+    display: none; }
+  .page-layout .field {
+    margin-bottom: 20px;
+    clear: both; }
+  .page-layout div.edit-panel {
+    background-color: #f8f8f8;
+    padding: 10px; }
+  .page-layout #news-layout #publishing-start-date, .page-layout #static-page-layout #publishing-start-date {
+    float: left;
+    margin-right: 20px; }
+  .page-layout #news-layout #publishing-expiration-date, .page-layout #static-page-layout #publishing-expiration-date {
+    display: inline-block; }
+
+/*# sourceMappingURL=layouts-edit.css.map*/
